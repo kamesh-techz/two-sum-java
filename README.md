@@ -1,2 +1,9 @@
-# two-sum-java
-Solved the classic Two Sum problem using Java, including both brute force and optimized hash-based approaches.
+## Approach
+
+1. Brute Force
+- Uses nested loops
+- Time Complexity: O(n²)
+
+2. Optimized (HashMap)
+- Uses HashMap for faster lookup
+- Time Complexity: O(n)
